@@ -1287,7 +1287,7 @@ Name: res/drawable-xxhdpi-v4/ic_view_burst.png
 SHA1-Digest: aIwimmGiHw1lGHtyaR2JTsf4fVA=
 
 Name: AndroidManifest.xml
-SHA1-Digest: LkSvFtgAgFkxfCHUAqSKMzA8Y2c=
+SHA1-Digest: Y0yTOeMifCPe1AbLWVts2GIw4YY=
 
 Name: res/drawable-xxxhdpi-v4/ic_notification.png
 SHA1-Digest: yF0WJcQLL+Udyezk8++G5M4wi8E=
@@ -2282,7 +2282,7 @@ Name: res/layout/design_navigation_item.xml
 SHA1-Digest: LHeZUDA4bgoQVT0JRNsLSULHLxQ=
 
 Name: classes.dex
-SHA1-Digest: Tk0VCjTbePJI+YuvdMzMXFOwR18=
+SHA1-Digest: rJRP9ljkCYsS0+5B7nu/Z7+9JiU=
 
 Name: res/drawable-mdpi-v4/ic_timer_expanded_10s.png
 SHA1-Digest: 4YZsi8zENn7Qf67zs9L4an8XRBM=
@@ -2445,7 +2445,7 @@ Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
 SHA1-Digest: hLDouoWL7HAYB0e4/tnvxihrDoc=
 
 Name: resources.arsc
-SHA1-Digest: Xx98CTryquXQxY/1Mg0kFf1iSes=
+SHA1-Digest: cxS2gc/GX8nkfFXedbgf0JVn6mM=
 
 Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
  g

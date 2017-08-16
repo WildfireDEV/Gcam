@@ -1,5 +1,5 @@
 Signature-Version: 1.0
-SHA1-Digest-Manifest: OsFU9OcIvm0JVA/X+WaFUgFh6i0=
+SHA1-Digest-Manifest: T5Pht8UBdQ/v96OOlutOAQ+lkuE=
 Created-By: 1.0 (Android SignApk)
 
 Name: res/drawable/crossfade_button_background.xml
@@ -1288,7 +1288,7 @@ Name: res/drawable-xxhdpi-v4/ic_view_burst.png
 SHA1-Digest-Manifest: sv6Er2oExliPrkVEjYT5Jr/Bqy4=
 
 Name: AndroidManifest.xml
-SHA1-Digest-Manifest: 0MlNCCAou3npF/JpHCqoUQ+H/BQ=
+SHA1-Digest-Manifest: 90BIyc+d8ab+UV103ma/IWSvw/I=
 
 Name: res/drawable-xxxhdpi-v4/ic_notification.png
 SHA1-Digest-Manifest: naLnawQQqtKt8z+WHecBOQX3KwI=
@@ -2283,7 +2283,7 @@ Name: res/layout/design_navigation_item.xml
 SHA1-Digest-Manifest: EIyO9GWm4ru3cglKd38Gl3uVpio=
 
 Name: classes.dex
-SHA1-Digest-Manifest: YF5AxHygtCInvx/3eMg6slGVqCY=
+SHA1-Digest-Manifest: tNv/E4HrvUvoIiBU3YHNyJFImPw=
 
 Name: res/drawable-mdpi-v4/ic_timer_expanded_10s.png
 SHA1-Digest-Manifest: +3f7ZmIDskOowtBg5srLU8YlbIM=
@@ -2446,7 +2446,7 @@ Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
 SHA1-Digest-Manifest: OaiFXSiJUWpwH4XKZfMuGT4thjQ=
 
 Name: resources.arsc
-SHA1-Digest-Manifest: 95msyVQuTuBDmeBUPQUkY2g+1qQ=
+SHA1-Digest-Manifest: 7ZHJrF8HaWQNSiHe6m1J2aS6K8g=
 
 Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
  g
