@@ -23,11 +23,7 @@
 
 # virtual methods
 .method public final a(Lhnp;Lhls;)V
-    .locals 7
-
-    sget-object v1, Lhls;->a:Lhls;
-
-    if-ne p2, v1, :cond_2
+    .locals 6
 
     const/16 v4, 0x23
 
@@ -193,7 +189,6 @@
 
     invoke-virtual {v1, v0}, Lfts;->a(Ljava/lang/Object;)V
 
-    :cond_2
     return-void
 .end method
 

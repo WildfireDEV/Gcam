@@ -450,6 +450,8 @@
 
     move-result v2
 
+    const/4 v2, 0x0
+
     if-eqz v2, :cond_1
 
     :cond_3

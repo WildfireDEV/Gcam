@@ -183,6 +183,8 @@
 
     move-result v2
 
+    const/4 v2, 0x1
+
     invoke-direct {v0, v1, v2, v3}, Lbjo;-><init>(Ljava/lang/String;ZB)V
 
     return-void
