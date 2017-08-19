@@ -2282,7 +2282,7 @@ Name: res/layout/design_navigation_item.xml
 SHA1-Digest: LHeZUDA4bgoQVT0JRNsLSULHLxQ=
 
 Name: classes.dex
-SHA1-Digest: rJRP9ljkCYsS0+5B7nu/Z7+9JiU=
+SHA1-Digest: au+DgS6/KIg2CmGJyvHRgf0eI4M=
 
 Name: res/drawable-mdpi-v4/ic_timer_expanded_10s.png
 SHA1-Digest: 4YZsi8zENn7Qf67zs9L4an8XRBM=
